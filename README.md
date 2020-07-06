@@ -9,7 +9,7 @@ Hello, everyone! My name's Jeffrey and I'm a Junior studying Statistics with an 
 Hi! My name is Su-Ting Tan and I am a rising sophomore studying Managerial Economics. I'm currently an Onboarding Associate and Recruiter for Bit Project. I help onboard new members and assist them with any questions that they may have. I also help with recruiting and reaching out to potential students who might be interested in joining our team.
 
 #### Matthew Edward Lee | Marketing Coordinator of Bit Project at UC Davis
-Hey everyone! My name is Matthew Edward Lee and I am a rising sophomore majoring in Managerial Economics and minoring in Tech Management. I work as a Project Manager on the DevRel team where I organize and facilitate integrated marketing campaigns (IMCs). Working with a team of 4-6 developers, we create a live webinar, over the course of 8 weeks, to educate the STEM community on various programs, languages, and/or applications that may prove useful in the real world. I am excited to continue working with Bit Project as the Marketing Manager of the UC Davis Chapter!
+Hey everyone! My name is Matthew Edward Lee and I am a rising sophomore majoring in Managerial Economics and minoring in Tech Management. I work as a Project Manager on the DevRel team where I organize and facilitate integrated marketing campaigns (IMCs). Working with a team of 4-6 developers, we create a live webinar, over the course of 8 weeks, to educate the STEM community on various programs, languages, and/or applications that may prove useful in the real world. I am excited to continue working with Bit Project as the Marketing Coordinator of the UC Davis Chapter!
 
 #### Lily Hem | Outreach Coordinator of Bit Project at UC Davis
 {{Description}}
